@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "47c81417dca66f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b2f829b74cc89d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8180b06564344d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2. Introducción a la Lógica de Primer Orden"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa7276f529a0b48d",
+    "type": "split",
+    "children": [
+      {
+        "id": "353e150b9164c131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5b5a1e60f30916",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a64b0170693c25e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a2b6068c379b027",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f84fbd63cef732d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbf6aedacabf5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bcb3197ab0c00fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e2ec99bb7e5886ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a71a5528c3bf2591",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29f25c00e2e30487",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5d3d732b54f1ffa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8180b06564344d17",
+  "lastOpenFiles": [
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.1. Teoría básica de Conjuntos.md",
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.3. Producto Cartesiano y Relaciones.md",
+    "Welcome.md",
+    "README.md",
+    "Apuntes/Análisis Numérico Matricial e Interpolación",
+    "Apuntes/Geometría Básica",
+    "Apuntes/Funciones de varias Variables",
+    "Apuntes/Cálculo de Probabilidades",
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.4. Axiomas de Zermelo-Fraenkel (ZF).md",
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números",
+    "Apuntes/Funciones de una Variable/6. Límites infinitos y la recta real ampliada.md",
+    "Apuntes/Funciones de una Variable/5. Números reales.md",
+    "Apuntes/Funciones de una Variable/4. Sucesiones y Construcción de los Números Reales.md",
+    "Apuntes/Funciones de una Variable/3. Números Racionales.md",
+    "Apuntes/Funciones de una Variable/2. Números Enteros.md",
+    "Apuntes/Funciones de una Variable/1. Números Naturales.md",
+    "Apuntes/Funciones de una Variable",
+    "Apuntes/Algebra Lineal",
+    "Apuntes"
+  ]
+}
