@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "file": "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2. Introducción a la Lógica de Primer Orden"
+              "title": "1.3 Invertibilidad y Determinantes"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "file": "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "file": "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
+                "file": "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,10 @@
   },
   "active": "8180b06564344d17",
   "lastOpenFiles": [
+    "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
+    "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
+    "Apuntes/Algebra Lineal/1.1 Mátrices y Operaciones Básicas.md",
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.1. Teoría básica de Conjuntos.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.3. Producto Cartesiano y Relaciones.md",
@@ -200,7 +204,6 @@
     "Apuntes/Funciones de varias Variables",
     "Apuntes/Cálculo de Probabilidades",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.4. Axiomas de Zermelo-Fraenkel (ZF).md",
-    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números",
     "Apuntes/Funciones de una Variable/6. Límites infinitos y la recta real ampliada.md",
     "Apuntes/Funciones de una Variable/5. Números reales.md",
