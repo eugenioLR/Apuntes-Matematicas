@@ -11,10 +11,14 @@
             "id": "8180b06564344d17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Funciones de una Variable/7. Topoloigía en los reales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Topoloigía en los reales"
             }
           }
         ]
@@ -195,16 +199,17 @@
   },
   "active": "8180b06564344d17",
   "lastOpenFiles": [
-    "Apuntes/Funciones de una Variable/15. Series de números reales II.md",
-    "Apuntes/Funciones de una Variable/14. Series de números reales.md",
+    "Apuntes/Funciones de una Variable/9. Funciones continuas.md",
     "Apuntes/Funciones de una Variable/8. Límites de funciones.md",
+    "Apuntes/Funciones de una Variable/14. Series de números reales.md",
+    "Apuntes/Funciones de una Variable/1. Números Naturales.md",
+    "Apuntes/Funciones de una Variable/15. Series de números reales II.md",
     "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
     "Apuntes/Algebra Lineal/1.1 Mátrices y Operaciones Básicas.md",
     "Apuntes/Funciones de una Variable/4. Sucesiones y Construcción de los Números Reales.md",
     "Apuntes/Funciones de una Variable/3. Números Racionales.md",
     "Apuntes/Funciones de una Variable/6. Límites infinitos y la recta real ampliada.md",
     "Apuntes/Funciones de una Variable/2. Números Enteros.md",
-    "Apuntes/Funciones de una Variable/1. Números Naturales.md",
     "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.1. Teoría básica de Conjuntos.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
@@ -220,7 +225,6 @@
     "Apuntes/Matematica Discreta/Teoría de numeros.md",
     "Apuntes/Funciones de una Variable/5. Números reales.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.3. Producto Cartesiano y Relaciones.md",
-    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
     "Apuntes/Matematica Discreta",
     "Apuntes/Cálculo de Probabilidades/transcripciones",
     "Apuntes/Análisis Numérico Matricial e Interpolación",
