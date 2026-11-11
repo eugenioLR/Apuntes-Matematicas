@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Funciones de una Variable/15. Series de números reales II.md",
+                "file": "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Series de números reales II"
+              "title": "1.2 Método de Gauss, Equivalencias y Rango"
             }
           }
         ]
@@ -160,6 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,24 +200,24 @@
   },
   "active": "8180b06564344d17",
   "lastOpenFiles": [
+    "Apuntes/Algebra Lineal/1.1 Mátrices y Operaciones Básicas.md",
+    "Apuntes/Funciones de una Variable/12. Fórmula de Taylor.md",
     "Apuntes/Funciones de una Variable/11. Funciones derivables en intervalos.md",
+    "Apuntes/Funciones de una Variable/8. Límites de funciones.md",
+    "Apuntes/Funciones de una Variable/7. Topoloigía en los reales.md",
+    "Apuntes/Funciones de una Variable/6. Límites infinitos y la recta real ampliada.md",
     "Apuntes/Funciones de una Variable/15. Series de números reales II.md",
     "Apuntes/Funciones de una Variable/14. Series de números reales.md",
     "Apuntes/Funciones de una Variable/13. Límites superior e inferior de una sucesion.md",
-    "Apuntes/Funciones de una Variable/12. Fórmula de Taylor.md",
     "Apuntes/Funciones de una Variable/10. Funciones derivables.md",
-    "Apuntes/Funciones de una Variable/8. Límites de funciones.md",
     "Apuntes/Funciones de una Variable/9. Funciones continuas.md",
     "Demostración - Condición necesaria de extremo local (Teorema de Fermat).md",
-    "Apuntes/Funciones de una Variable/7. Topoloigía en los reales.md",
-    "Apuntes/Funciones de una Variable/6. Límites infinitos y la recta real ampliada.md",
     "Apuntes/Funciones de una Variable/5. Números reales.md",
     "Apuntes/Funciones de una Variable/4. Sucesiones y Construcción de los Números Reales.md",
     "Apuntes/Funciones de una Variable/3. Números Racionales.md",
     "Apuntes/Funciones de una Variable/2. Números Enteros.md",
     "Apuntes/Funciones de una Variable/1. Números Naturales.md",
     "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
-    "Apuntes/Algebra Lineal/1.1 Mátrices y Operaciones Básicas.md",
     "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.1. Teoría básica de Conjuntos.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
