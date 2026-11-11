@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8180b06564344d17",
+  "active": "14a7b0655a42c2f2",
   "lastOpenFiles": [
     "Apuntes/Algebra Lineal/1.1 Mátrices y Operaciones Básicas.md",
     "Apuntes/Funciones de una Variable/12. Fórmula de Taylor.md",
