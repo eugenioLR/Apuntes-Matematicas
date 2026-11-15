@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Algebra Lineal/2.2 Factorización LU.md",
+                "file": "Apuntes/Algebra Lineal/2.2 Factorizaciones LU, LDU y LDL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Factorización LU"
+              "title": "2.2 Factorizaciones LU, LDU y LDL"
             }
           }
         ]
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +202,7 @@
   "active": "8180b06564344d17",
   "lastOpenFiles": [
     "Apuntes/Algebra Lineal/2.1 Sistemas lineales.md",
-    "Apuntes/Algebra Lineal/2.2 Factorización LU.md",
+    "Apuntes/Algebra Lineal/2.2 Factorizaciones LU, LDU y LDL.md",
     "Apuntes/Funciones de una Variable/15. Series de números reales II.md",
     "Apuntes/Funciones de una Variable/14. Series de números reales.md",
     "Apuntes/Funciones de una Variable/13. Límites superior e inferior de una sucesion.md",
