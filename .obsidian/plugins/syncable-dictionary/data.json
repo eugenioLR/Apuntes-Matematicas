@@ -1,0 +1,40 @@
+{
+  "globalWords": [
+    "abeliano",
+    "ary",
+    "convolución",
+    "factorización",
+    "Factorizaciones",
+    "inconcluyente",
+    "injective",
+    "LDL",
+    "LDU",
+    "memoryless",
+    "Peano",
+    "permutación",
+    "radix",
+    "Stolz",
+    "Walras",
+    "Walrasian"
+  ],
+  "lastSnapshot": [
+    "abeliano",
+    "ary",
+    "convolución",
+    "factorización",
+    "Factorizaciones",
+    "inconcluyente",
+    "injective",
+    "LDL",
+    "LDU",
+    "memoryless",
+    "Peano",
+    "permutación",
+    "radix",
+    "Stolz",
+    "Walras",
+    "Walrasian"
+  ],
+  "warningThreshold": 5,
+  "syncPollingRate": 15000
+}
