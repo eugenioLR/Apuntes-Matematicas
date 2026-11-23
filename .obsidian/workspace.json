@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Algebra Lineal/3.2. Rango, subespacios y cambios de base.md",
+                "file": "Apuntes/Algebra Lineal/3.3 Ecuaciones paramétricas e implícitas, y Subespacios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2. Rango, subespacios y cambios de base"
+              "title": "3.3 Ecuaciones paramétricas e implícitas, y Subespacios"
             }
           }
         ]
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +200,14 @@
   },
   "active": "8180b06564344d17",
   "lastOpenFiles": [
+    "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
     "Apuntes/Algebra Lineal/3.1 Espacios vectoriales.md",
-    "Apuntes/Algebra Lineal/3.2. Rango, subespacios y cambios de base.md",
     "Apuntes/Algebra Lineal/3.3 Ecuaciones paramétricas e implícitas, y Subespacios.md",
+    "Apuntes/Algebra Lineal/3.2. Rango, subespacios y cambios de base.md",
+    "extra/Teoría de la información",
+    "extra/Teoría de control",
+    "extra/Teoría de la señal",
+    "extra",
     "Apuntes/Algebra Lineal/2.2 Factorizaciones LU, LDU y LDL.md",
     "Apuntes/Funciones de una Variable/1. Números Naturales.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/3. Relaciones, Aplicaciones y Cardinalidad.md",
@@ -217,7 +221,6 @@
     "Apuntes/Funciones de una Variable/2. Números Enteros.md",
     "Apuntes/Geometría Básica/1. Espacios métricos.md",
     "Apuntes/Algebra Lineal/1.1 Mátrices y Operaciones Básicas.md",
-    "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
     "Apuntes/Algebra Lineal/1.3 Invertibilidad y Determinantes.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.4. Axiomas de Zermelo-Fraenkel (ZF).md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.3. Producto Cartesiano y Relaciones.md",
@@ -226,16 +229,11 @@
     "Apuntes/Funciones de una Variable/14. Series de números reales.md",
     "Apuntes/Funciones de una Variable/13. Límites superior e inferior de una sucesion.md",
     "Apuntes/Funciones de una Variable/12. Fórmula de Taylor.md",
-    "Apuntes/Funciones de una Variable/11. Funciones derivables en intervalos.md",
     "Apuntes/Matematica Discreta",
     "Apuntes/Cálculo de Probabilidades/transcripciones",
     "Apuntes/Análisis Numérico Matricial e Interpolación",
     "Apuntes/Geometría Básica",
     "Apuntes/Funciones de varias Variables",
-    "Apuntes/Cálculo de Probabilidades",
-    "Apuntes/Lenguaje Matematico, Conjuntos y Números",
-    "Apuntes/Funciones de una Variable",
-    "Apuntes/Algebra Lineal",
-    "Apuntes"
+    "Apuntes/Cálculo de Probabilidades"
   ]
 }
