@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Lógica proposicional"
+              "title": "README"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,6 +201,17 @@
   },
   "active": "8180b06564344d17",
   "lastOpenFiles": [
+    "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
+    "Apuntes/Geometría Básica/1. Espacios métricos.md",
+    "Apuntes/Geometría Básica",
+    "Apuntes/Funciones de una Variable/12. Fórmula de Taylor.md",
+    "Apuntes/Funciones de una Variable/11. Funciones derivables en intervalos.md",
+    "Apuntes/Funciones de una Variable/10. Funciones derivables.md",
+    "Apuntes/Algebra Lineal/3.3 Ecuaciones paramétricas e implícitas, y Subespacios.md",
+    "Apuntes/Algebra Lineal/3.2. Rango, subespacios y cambios de base.md",
+    "Apuntes/Algebra Lineal/3.1 Espacios vectoriales.md",
+    "Apuntes/Algebra Lineal/2.2 Factorizaciones LU, LDU y LDL.md",
+    "Apuntes/Algebra Lineal/2.1 Sistemas lineales.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.1. Teoría básica de Conjuntos.md",
     "Apuntes/Algebra Lineal/1.2 Método de Gauss, Equivalencias y Rango.md",
     "Apuntes/Algebra Lineal/1.1 Mátrices y Operaciones Básicas.md",
@@ -217,20 +228,9 @@
     "Apuntes/Funciones de una Variable/8. Límites de funciones.md",
     "Apuntes/Funciones de una Variable/14. Series de números reales.md",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números/3. Relaciones, Aplicaciones y Cardinalidad.md",
-    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.4. Axiomas de Zermelo-Fraenkel (ZF).md",
-    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.3. Producto Cartesiano y Relaciones.md",
-    "Apuntes/Lenguaje Matematico, Conjuntos y Números/2.2. Introducción a la Lógica de Primer Orden.md",
-    "Apuntes/Lenguaje Matematico, Conjuntos y Números/1. Lógica proposicional.md",
-    "Apuntes/Funciones de una Variable/2. Números Enteros.md",
-    "Apuntes/Funciones de una Variable/3. Números Racionales.md",
-    "Apuntes/Funciones de una Variable/4. Sucesiones y Construcción de los Números Reales.md",
-    "Apuntes/Funciones de una Variable/5. Números reales.md",
-    "Apuntes/Funciones de una Variable/6. Límites infinitos y la recta real ampliada.md",
-    "Apuntes/Cálculo de Probabilidades/transcripciones/4. Extensiones del modelo matemático.md",
     "Apuntes/Matematica Discreta",
     "Apuntes/Cálculo de Probabilidades/transcripciones",
     "Apuntes/Análisis Numérico Matricial e Interpolación",
-    "Apuntes/Geometría Básica",
     "Apuntes/Funciones de varias Variables",
     "Apuntes/Cálculo de Probabilidades",
     "Apuntes/Lenguaje Matematico, Conjuntos y Números",
